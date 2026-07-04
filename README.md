@@ -1,12 +1,3 @@
-<div align="center">
-  <a href="https://commit-history.com/mhaadiabu">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://commit-history.com/embed/mhaadiabu?theme=dark" />
-      <img alt="mhaadiabu's commit history" src="https://commit-history.com/embed/mhaadiabu" />
-    </picture>
-  </a>
-</div>
-
 # Mohammed Haadi
 
 Web developer building user-friendly applications. Student by day, shipping code by night.
@@ -32,3 +23,12 @@ Web developer building user-friendly applications. Student by day, shipping code
   src="https://img.shields.io/badge/TanStack_Start-EF4444?style=flat&logo=tanstack&logoColor=white"
   alt="TanStack Start"
 />
+
+<div align="center">
+  <a href="https://commit-history.com/mhaadiabu">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://commit-history.com/embed/mhaadiabu?theme=dark" />
+      <img alt="mhaadiabu's commit history" src="https://commit-history.com/embed/mhaadiabu" />
+    </picture>
+  </a>
+</div>
